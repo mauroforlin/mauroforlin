@@ -1,6 +1,6 @@
 Fourth-year medical student. Building AI products on the side.
 
-**Working on:** Gargantua, an EBM retrieval system
+**Working on:** [Gargantua](https://github.com/mauroforlin/gargantua), an EBM retrieval system
 
 **Projects in production**
 - [Sbobby](https://sbobby.com): turns recorded lectures into structured study material, with RAG search over scientific literature. 2000+ users.
